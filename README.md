@@ -1,2 +1,2 @@
 # AU3506-STI_3F
-SJTU 工科创3F
+SJTU 自动化 工科创3F
